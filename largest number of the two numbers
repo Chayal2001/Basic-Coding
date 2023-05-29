@@ -1,0 +1,17 @@
+function max(a, b){
+    /*wirite the code to find the maximum between two numbers below 
+     only print the maximum number  */
+    
+    if(a>b){
+        console.log(a);
+        
+        
+    }
+      else if(a<b){
+         console.log(b);
+    }
+    else {
+        console.log(a)
+    }
+    
+}
